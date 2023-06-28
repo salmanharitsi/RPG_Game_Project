@@ -1,0 +1,40 @@
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.exe
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.deps.json
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.runtimeconfig.json
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.runtimeconfig.dev.json
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.dll
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.pdb
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.csprojAssemblyReference.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.AssemblyInfoInputs.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.AssemblyInfo.cs
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.csproj.CoreCompileInputs.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.dll
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.pdb
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.genruntimeconfig.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.exe
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.deps.json
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.runtimeconfig.json
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.runtimeconfig.dev.json
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.dll
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.pdb
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.csprojAssemblyReference.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.AssemblyInfoInputs.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.AssemblyInfo.cs
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.csproj.CoreCompileInputs.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.dll
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.pdb
+C:\salman\UNRI sem 1\Dasar pemrograman\project uts\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.genruntimeconfig.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.exe
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.deps.json
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.runtimeconfig.json
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.runtimeconfig.dev.json
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.dll
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\bin\Debug\netcoreapp3.1\UTS Dasar pemrograman.pdb
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.AssemblyInfoInputs.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.AssemblyInfo.cs
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.csproj.CoreCompileInputs.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.dll
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.pdb
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.genruntimeconfig.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.csproj.AssemblyReference.cache
+C:\salman\UNRI sem 1\Dasar pemrograman\UTS\UTS Dasar pemrograman\obj\Debug\netcoreapp3.1\UTS Dasar pemrograman.GeneratedMSBuildEditorConfig.editorconfig
